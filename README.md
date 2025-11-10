@@ -36,7 +36,7 @@ pip install requests
 1. Run the script:
 
 ```bash
-python ascii_art_parser.py
+python ascii_art_viewer.py
 ```
 
 2. Enter the URL of the HTML page containing the ASCII art table when prompted:
